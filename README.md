@@ -1,3 +1,4 @@
+![Static security analysis for Terraform code](https://github.com/foss-cafe/terraform-aws-ecr/workflows/Static%20security%20analysis%20for%20Terraform%20code/badge.svg)
 # Terraform module for creating ECR repositories
 
 ## Prerequisites
