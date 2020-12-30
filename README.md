@@ -66,3 +66,7 @@ module "ecr" {
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 - [ ] Moving tagPrefixList to variables
+## License
+
+Apache 2 Licensed. See LICENSE for full details.
+
